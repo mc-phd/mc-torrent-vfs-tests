@@ -1,0 +1,10 @@
+/.cache/
+/.tox/
+/build/
+/data/
+/dist/
+mc_torrent_vfs_tests.egg-info
+/MANIFEST
+*.py[co]
+*.tmp
+*~
