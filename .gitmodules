@@ -1,0 +1,4 @@
+[submodule "webtorrent-fixtures"]
+	path = tests/webtorrent-fixtures
+	url = https://github.com/webtorrent/webtorrent-fixtures.git
+	branch = master
