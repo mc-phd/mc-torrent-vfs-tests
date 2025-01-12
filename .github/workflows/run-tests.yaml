@@ -47,6 +47,8 @@ jobs:
     steps:
       # Setup Python/pip
       - uses: actions/checkout@v4
+        with:
+          submodules: true
       - uses: conda-incubator/setup-miniconda@v3
         with:
           miniforge-version: latest
