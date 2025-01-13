@@ -1,0 +1,92 @@
+(dp1
+S'creation date'
+p2
+I1458348895130
+sS'info'
+p3
+(dp4
+S'files'
+p5
+(lp6
+(dp7
+S'path'
+p8
+(lp9
+S'big numbers'
+p10
+aS'10.txt'
+p11
+asS'length'
+p12
+I2
+sa(dp13
+S'path'
+p14
+(lp15
+S'big numbers'
+p16
+aS'11.txt'
+p17
+asS'length'
+p18
+I2
+sa(dp19
+S'path'
+p20
+(lp21
+S'big numbers'
+p22
+aS'12.txt'
+p23
+asS'length'
+p24
+I2
+sa(dp25
+S'path'
+p26
+(lp27
+S'small numbers'
+p28
+aS'1.txt'
+p29
+asS'length'
+p30
+I1
+sa(dp31
+S'path'
+p32
+(lp33
+S'small numbers'
+p34
+aS'2.txt'
+p35
+asS'length'
+p36
+I2
+sa(dp37
+S'path'
+p38
+(lp39
+S'small numbers'
+p40
+aS'3.txt'
+p41
+asS'length'
+p42
+I3
+sasS'piece length'
+p43
+I16384
+sS'name'
+p44
+S'lots-of-numbers'
+p45
+sS'pieces'
+p46
+S'G\x97/+\xef\xae\xe5\x8bo8`\xcd9\xbdV\xcb3\xa4\x88\xf0'
+p47
+ssS'encoding'
+p48
+S'UTF-8'
+p49
+s.
