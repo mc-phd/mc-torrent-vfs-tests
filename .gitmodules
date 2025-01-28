@@ -2,3 +2,6 @@
 	path = tests/webtorrent-fixtures
 	url = https://github.com/webtorrent/webtorrent-fixtures.git
 	branch = master
+[submodule "extfs.d"]
+	path = tests/extfs.d
+	url = https://github.com/mc-phd/extfs.d.git
