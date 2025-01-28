@@ -1,0 +1,12 @@
+dr-xr-xr-x 1 user group 0 03-28-9999 03:18 .META
+-r--r--r-- 1 user group 25 03-28-9999 03:18 .META/creation date
+-r--r--r-- 1 user group 5 03-28-9999 03:18 .META/encoding
+-r--r--r-- 1 user group 5 03-28-9999 03:18 .META/piece length
+dr-xr-xr-x 1 user group 0 03-28-9999 03:18 lots-of-numbers/big numbers
+-r--r--r-- 1 user group 2 03-28-9999 03:18 lots-of-numbers/big numbers/10.txt
+-r--r--r-- 1 user group 2 03-28-9999 03:18 lots-of-numbers/big numbers/11.txt
+-r--r--r-- 1 user group 2 03-28-9999 03:18 lots-of-numbers/big numbers/12.txt
+dr-xr-xr-x 1 user group 0 03-28-9999 03:18 lots-of-numbers/small numbers
+-r--r--r-- 1 user group 1 03-28-9999 03:18 lots-of-numbers/small numbers/1.txt
+-r--r--r-- 1 user group 2 03-28-9999 03:18 lots-of-numbers/small numbers/2.txt
+-r--r--r-- 1 user group 3 03-28-9999 03:18 lots-of-numbers/small numbers/3.txt

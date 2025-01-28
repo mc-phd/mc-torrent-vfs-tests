@@ -1,0 +1,8 @@
+dr-xr-xr-x 1 user group 0 05-05-2011 08:49 .META
+-r--r--r-- 1 user group 13 05-05-2011 08:49 .META/created by
+-r--r--r-- 1 user group 24 05-05-2011 08:49 .META/creation date
+-r--r--r-- 1 user group 5 05-05-2011 08:49 .META/encoding
+-r--r--r-- 1 user group 7 05-05-2011 08:49 .META/piece length
+-r--r--r-- 1 user group 9 05-05-2011 08:49 .META/publisher
+-r--r--r-- 1 user group 31 05-05-2011 08:49 .META/publisher-url
+-r--r--r-- 1 user group 5490455272 05-05-2011 08:49 Sintel.2010.4K.DMRip.x264.DD.DTS.SRT-MaLLIeHbKa.mkv
