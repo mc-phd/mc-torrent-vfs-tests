@@ -1,0 +1,6 @@
+dr-xr-xr-x 1 user group 0 02-12-9999 23:30 .META
+-r--r--r-- 1 user group 25 02-12-9999 23:30 .META/creation date
+-r--r--r-- 1 user group 5 02-12-9999 23:30 .META/encoding
+-r--r--r-- 1 user group 5 02-12-9999 23:30 .META/piece length
+dr-xr-xr-x 1 user group 0 02-12-9999 23:30 folder
+-r--r--r-- 1 user group 15 02-12-9999 23:30 folder/file.txt

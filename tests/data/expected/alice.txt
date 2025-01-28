@@ -1,0 +1,5 @@
+dr-xr-xr-x 1 user group 0 11-25-9999 14:44 .META
+-r--r--r-- 1 user group 25 11-25-9999 14:44 .META/creation date
+-r--r--r-- 1 user group 5 11-25-9999 14:44 .META/encoding
+-r--r--r-- 1 user group 5 11-25-9999 14:44 .META/piece length
+-r--r--r-- 1 user group 163783 11-25-9999 14:44 alice.txt

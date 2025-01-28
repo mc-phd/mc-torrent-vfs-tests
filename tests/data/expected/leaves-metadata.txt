@@ -1,0 +1,4 @@
+dr-xr-xr-x 1 user group 0 03-16-2016 19:33 .META
+-r--r--r-- 1 user group 0 03-16-2016 19:33 .META/announce-list
+-r--r--r-- 1 user group 5 03-16-2016 19:33 .META/piece length
+-r--r--r-- 1 user group 362017 03-16-2016 19:33 Leaves of Grass by Walt Whitman.epub
