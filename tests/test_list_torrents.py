@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
-from datetime import datetime
-from time import mktime
+from datetime import datetime, timedelta
+from time import mktime, timezone
 import os
 import os.path
 import subprocess
@@ -25,6 +25,9 @@ def _test1(basename):
     if basename == 'leaves-metadata':
         # The torrent lacks creation_date field, set fixd timestamp
         leaves_metadata_dt = datetime(2016, 3, 16, 19, 33)
+        if (sys.version_info[:2] <= (3, 7)) and \
+                (sys.platform == 'win32'):
+            leaves_metadata_dt -= timedelta(seconds=timezone)
         timestamp = mktime(leaves_metadata_dt.timetuple())
         os.utime(torrent_file, (timestamp, timestamp))
 
