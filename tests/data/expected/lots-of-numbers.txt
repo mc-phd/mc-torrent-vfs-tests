@@ -1,12 +1,12 @@
-dr-xr-xr-x 1 user group 0 12-31-9999 23:59 .META
--r--r--r-- 1 user group 24 12-31-9999 23:59 .META/creation date
--r--r--r-- 1 user group 5 12-31-9999 23:59 .META/encoding
--r--r--r-- 1 user group 5 12-31-9999 23:59 .META/piece length
-dr-xr-xr-x 1 user group 0 12-31-9999 23:59 lots-of-numbers/big numbers
--r--r--r-- 1 user group 2 12-31-9999 23:59 lots-of-numbers/big numbers/10.txt
--r--r--r-- 1 user group 2 12-31-9999 23:59 lots-of-numbers/big numbers/11.txt
--r--r--r-- 1 user group 2 12-31-9999 23:59 lots-of-numbers/big numbers/12.txt
-dr-xr-xr-x 1 user group 0 12-31-9999 23:59 lots-of-numbers/small numbers
--r--r--r-- 1 user group 1 12-31-9999 23:59 lots-of-numbers/small numbers/1.txt
--r--r--r-- 1 user group 2 12-31-9999 23:59 lots-of-numbers/small numbers/2.txt
--r--r--r-- 1 user group 3 12-31-9999 23:59 lots-of-numbers/small numbers/3.txt
+dr-xr-xr-x 1 0 0 0 12-31-9999 23:59 .META
+-r--r--r-- 1 0 0 24 12-31-9999 23:59 .META/creation date
+-r--r--r-- 1 0 0 5 12-31-9999 23:59 .META/encoding
+-r--r--r-- 1 0 0 5 12-31-9999 23:59 .META/piece length
+dr-xr-xr-x 1 0 0 0 12-31-9999 23:59 lots-of-numbers/big numbers
+-r--r--r-- 1 0 0 2 12-31-9999 23:59 lots-of-numbers/big numbers/10.txt
+-r--r--r-- 1 0 0 2 12-31-9999 23:59 lots-of-numbers/big numbers/11.txt
+-r--r--r-- 1 0 0 2 12-31-9999 23:59 lots-of-numbers/big numbers/12.txt
+dr-xr-xr-x 1 0 0 0 12-31-9999 23:59 lots-of-numbers/small numbers
+-r--r--r-- 1 0 0 1 12-31-9999 23:59 lots-of-numbers/small numbers/1.txt
+-r--r--r-- 1 0 0 2 12-31-9999 23:59 lots-of-numbers/small numbers/2.txt
+-r--r--r-- 1 0 0 3 12-31-9999 23:59 lots-of-numbers/small numbers/3.txt

@@ -1,6 +1,6 @@
-dr-xr-xr-x 1 user group 0 12-31-9999 23:59 .META
--r--r--r-- 1 user group 24 12-31-9999 23:59 .META/creation date
--r--r--r-- 1 user group 5 12-31-9999 23:59 .META/encoding
--r--r--r-- 1 user group 5 12-31-9999 23:59 .META/piece length
-dr-xr-xr-x 1 user group 0 12-31-9999 23:59 folder
--r--r--r-- 1 user group 15 12-31-9999 23:59 folder/file.txt
+dr-xr-xr-x 1 0 0 0 12-31-9999 23:59 .META
+-r--r--r-- 1 0 0 24 12-31-9999 23:59 .META/creation date
+-r--r--r-- 1 0 0 5 12-31-9999 23:59 .META/encoding
+-r--r--r-- 1 0 0 5 12-31-9999 23:59 .META/piece length
+dr-xr-xr-x 1 0 0 0 12-31-9999 23:59 folder
+-r--r--r-- 1 0 0 15 12-31-9999 23:59 folder/file.txt

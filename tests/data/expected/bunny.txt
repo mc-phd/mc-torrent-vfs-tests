@@ -1,7 +1,7 @@
-dr-xr-xr-x 1 user group 0 12-17-2013 19:48 .META
--r--r--r-- 1 user group 13 12-17-2013 19:48 .META/created by
--r--r--r-- 1 user group 24 12-17-2013 19:48 .META/creation date
--r--r--r-- 1 user group 5 12-17-2013 19:48 .META/encoding
--r--r--r-- 1 user group 6 12-17-2013 19:48 .META/piece length
--r--r--r-- 1 user group 1 12-17-2013 19:48 .META/private
--r--r--r-- 1 user group 434839491 12-17-2013 19:48 bbb_sunflower_1080p_30fps_stereo_abl.mp4
+dr-xr-xr-x 1 0 0 0 12-17-2013 19:48 .META
+-r--r--r-- 1 0 0 13 12-17-2013 19:48 .META/created by
+-r--r--r-- 1 0 0 24 12-17-2013 19:48 .META/creation date
+-r--r--r-- 1 0 0 5 12-17-2013 19:48 .META/encoding
+-r--r--r-- 1 0 0 6 12-17-2013 19:48 .META/piece length
+-r--r--r-- 1 0 0 1 12-17-2013 19:48 .META/private
+-r--r--r-- 1 0 0 434839491 12-17-2013 19:48 bbb_sunflower_1080p_30fps_stereo_abl.mp4
