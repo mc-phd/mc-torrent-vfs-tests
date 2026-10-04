@@ -4,7 +4,7 @@ Tests for torrent-vfs (Midnight Commander)
 
 Author: Oleg Broytman <phd@phdru.name>.
 
-Copyright (C) 2025 PhiloSoft Design.
+Copyright (C) 2025, 2026 PhiloSoft Design.
 
 License: GPL.
 
